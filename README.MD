@@ -15,7 +15,7 @@
 </br>
 
 
- <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="220" />
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="350" height="220" />
 
  **Talking about Personal Stuffs:**
 
@@ -24,7 +24,6 @@
 -   :computer: Most used line of code `git commit -m "Initial Commit"`
 -   👬 I'm looking to collaborate on **Open source project**
 - 💬 Ask me about anything : If i know, I am happy to help
-- 
 - 📫 How to reach me: **surajkumar0527@gmail.com**
 - ⚡ Fun fact: Chai lover | listen music in everyday
 
