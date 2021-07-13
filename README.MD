@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Suraj Kumar</h1>
-<h3 align="left">Front-End Web Developer | |  Founder <a href=""> @TaruGuardians (N.G.O) </a>| | Data Analytics | | Competitive programmer</h3>
+<h3 align="left">Front-End Web Developer | |  Founder <a href="https://taruguardians.github.io/HandsforHelp/"> @TaruGuardians (N.G.O) </a>| | Data Analytics | | Competitive programmer</h3>
 
 
 :mailbox: Reach me out!
@@ -15,7 +15,7 @@
 </br>
 
 
- <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="220" />
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="300" height="220" />
 
  **Talking about Personal Stuffs:**
 
@@ -42,7 +42,7 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)[![BootStrap Badge](https://img.shields.io/badge/-BootStrap-563d7c?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=563d7c)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-68A063?style=for-the-badge&labelColor=black&logo=node.js&logoColor=68A063)](#) 
- [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502F)](#)
+ [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=Git&logoColor=F1502f)](#)
  [![Github Badge](https://img.shields.io/badge/-Github-171515?style=for-the-badge&labelColor=white&logo=Github&logoColor=171515)](#)
  [![Visual Stdio Code Badge](https://img.shields.io/badge/-Visual_Sudio_Code-0078d7?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=0078d7)](#)
  [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-FFB900?style=for-the-badge&labelColor=black&logo=PyCharm&logoColor=FFB900)](#)
@@ -62,7 +62,7 @@
 </a>
    -->
 <a href="https://github.com/Skapsime">
-  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
   </a>
 </br>
 </br>
