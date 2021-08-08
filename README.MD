@@ -53,7 +53,9 @@
 📈 **My GitHub Statistics:**
 
 <a href="https://github.com/Skapsime">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Skapsime&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Suraj Kumar GitHub Stats" />
+<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Skapsime&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Suraj Kumar GitHub Stats" /> -->
+ ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skapsime&theme=gotham&show_icons=true)
+
 </a>
 
 <!-- <a href="https://github.com/Skapsime">
