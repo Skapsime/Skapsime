@@ -63,7 +63,7 @@
 </br>
 
 <a href="https://github.com/Skapsime">
-  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight "/>
+  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark "/>
   </a>
 
 </br>
