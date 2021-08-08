@@ -53,10 +53,7 @@
 📈 **My GitHub Statistics:**
 
 <a href="https://github.com/Skapsime">
-<!--   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Skapsime&show_icons=true&line_height=27&count_private=true&theme=gotham" alt="Suraj Kumar GitHub Stats" /> -->
- <img align="center" style="margin:0.5rem" src="![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skapsime&theme=gotham&show_icons=true)/>
-
-
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Skapsime&show_icons=true&line_height=27&count_private=true&theme=tokyonight " alt="Suraj Kumar GitHub Stats" />
 </a>
 
 <!-- <a href="https://github.com/Skapsime">
@@ -66,7 +63,7 @@
 </br>
 
 <a href="https://github.com/Skapsime">
-  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight "/>
   </a>
 
 </br>
