@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Suraj Kumar</h1>
-<h3 align="left">Full Stack Web Developer | |  Founder <a href="https://taruguardians.github.io/HandsforHelp/"> @TaruGuardians (N.G.O) </a>| | Data Analytics | | Competitive programmer</h3>
+<h3 align="left">Front-End Web Developer | |  Founder <a href="https://taruguardians.github.io/HandsforHelp/"> @TaruGuardians (N.G.O) </a>| | Data Analytics | | Competitive programmer</h3>
 
 
 :mailbox: Reach me out!
@@ -53,21 +53,22 @@
 📈 **My GitHub Statistics:**
 
 <a href="https://github.com/Skapsime">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Skapsime&show_icons=true&line_height=27&count_private=true&theme=tokyonight " alt="Suraj Kumar GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Skapsime&show_icons=true&line_height=27&count_private=public&theme=gotham" alt="Suraj kumar GitHub Stats" />
 </a>
 
 <!-- <a href="https://github.com/Skapsime">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&show=html,css&theme=gotham" />
-</a>
-   -->
+</a> -->
+  
+</br>
 </br>
 
 <a href="https://github.com/Skapsime">
-  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark "/>
+  <img align="center" style="margin:0.5rem"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skapsime&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
   </a>
 
 </br>
-
+</br>
 
 **⚙️ Visitors Count:**
 
