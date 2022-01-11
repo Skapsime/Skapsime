@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Suraj Kumar</h1>
-<h3 align="left">Full Stack Web Developer | |  Founder <a href="https://taruguardians.github.io/HandsforHelp/"> @TaruGuardians (N.G.O) </a>| | Data Analytics | | Competitive programmer</h3>
+<h3 align="left">Full Stack Web Developer || Cloud Learner | | Data Analytics | | Competitive programmer</h3>
 
 
 :mailbox: Reach me out!
